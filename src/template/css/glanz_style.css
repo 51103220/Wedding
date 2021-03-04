@@ -1787,6 +1787,11 @@ ul.mega-menu {
 			-webkit-transition: all 0.3s;
 			-o-transition: all 0.3s;
 			transition: all 0.3s;
+
+		}
+		.vmc_logo {
+			font:900 28px/18px Dosis, Arial;
+			color:#b72222 !important;		
 		}
 		.gla_logo_container {
 			float: left;
